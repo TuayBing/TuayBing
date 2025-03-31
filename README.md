@@ -1,4 +1,4 @@
-Web Developer -------------  * 🌍  I'm based in Bangkok * 🖥️  See my portfolio at [Portfolio](http://profileweb-developer.web.app) * ✉️  You can contact me at [khachen.rnk@gmail.com](mailto:khachen.rnk@gmail.com) * 🧠  I'm learning Laravel, Angular
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Khachen Riennukool ==========================================================================================================================================  Web Developer -------------  * 🌍  I'm based in Bangkok * 🖥️  See my portfolio at [Portfolio](http://profileweb-developer.web.app) * ✉️  You can contact me at [khachen.rnk@gmail.com](mailto:khachen.rnk@gmail.com) * 🧠  I'm learning Laravel, Angular
 
 ### Skills  
 
